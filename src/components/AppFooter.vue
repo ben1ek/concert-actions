@@ -1,7 +1,7 @@
 <template>
   <v-footer app height="50">
     <div class="siteFooter d-flex align-center justify-space-between mx-auto px-4">
-      <span>&#169; 2012 - 2025 Linkin Park - Poland</span>
+      <span>&#169; 2012 - 2026 Linkin Park - Poland</span>
       <div class="siteFooter_socials d-flex align-center">
         <v-icon :size="24" icon="mdi-youtube" @click="openYoutubeChannel"></v-icon>
         <v-icon :size="24" icon="mdi-instagram" @click="openInstagramPage"></v-icon>
